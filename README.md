@@ -20,13 +20,13 @@ This project implements a simple and responsive login page using HTML, CSS, and 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/login-page.git
+   git clone https://github.com/saadkhan890/Web-Assignment.git
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd login-page
+   cd Web-Assignmen
    ```
 
 3. **Open `index.html` in Your Browser**:
@@ -58,10 +58,3 @@ curl -X POST https://jsonplaceholder.typicode.com/posts \
 }'
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the content to better fit your project or add any additional information as needed!
