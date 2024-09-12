@@ -26,7 +26,7 @@ This project implements a simple and responsive login page using HTML, CSS, and 
 2. **Navigate to the Project Directory**:
 
    ```bash
-   cd Web-Assignmen
+   cd Web-Assignment
    ```
 
 3. **Open `index.html` in Your Browser**:
